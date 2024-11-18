@@ -1,0 +1,53 @@
+{
+  "$GMProject":"",
+  "%Name":"ui",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Test","folderPath":"folders/Test.yy","name":"Test","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Stories","folderPath":"folders/Test/Stories.yy","name":"Stories","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Utils","folderPath":"folders/Test/Utils.yy","name":"Utils","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"UI Engine","folderPath":"folders/UI Engine.yy","name":"UI Engine","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Elements","folderPath":"folders/UI Engine/Elements.yy","name":"Elements","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.8.1.171",
+  },
+  "name":"ui",
+  "resources":[
+    {"id":{"name":"f_default","path":"fonts/f_default/f_default.yy",},},
+    {"id":{"name":"o_ctrl","path":"objects/o_ctrl/o_ctrl.yy",},},
+    {"id":{"name":"rm_ctrl","path":"rooms/rm_ctrl/rm_ctrl.yy",},},
+    {"id":{"name":"log","path":"scripts/log/log.yy",},},
+    {"id":{"name":"scr_story_button","path":"scripts/scr_story_button/scr_story_button.yy",},},
+    {"id":{"name":"scr_story_checkbox","path":"scripts/scr_story_checkbox/scr_story_checkbox.yy",},},
+    {"id":{"name":"scr_story_text","path":"scripts/scr_story_text/scr_story_text.yy",},},
+    {"id":{"name":"ui_button","path":"scripts/ui_button/ui_button.yy",},},
+    {"id":{"name":"ui_checkbox","path":"scripts/ui_checkbox/ui_checkbox.yy",},},
+    {"id":{"name":"ui_node","path":"scripts/ui_node/ui_node.yy",},},
+    {"id":{"name":"ui_on_draw","path":"scripts/ui_on_draw/ui_on_draw.yy",},},
+    {"id":{"name":"ui_on_step","path":"scripts/ui_on_step/ui_on_step.yy",},},
+    {"id":{"name":"ui_text","path":"scripts/ui_text/ui_text.yy",},},
+    {"id":{"name":"ui_update","path":"scripts/ui_update/ui_update.yy",},},
+    {"id":{"name":"spr_btn","path":"sprites/spr_btn/spr_btn.yy",},},
+    {"id":{"name":"spr_checkbox","path":"sprites/spr_checkbox/spr_checkbox.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_ctrl","path":"rooms/rm_ctrl/rm_ctrl.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

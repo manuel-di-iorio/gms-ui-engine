@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_story_checkbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_story_checkbox",
+  "parent":{
+    "name":"Stories",
+    "path":"folders/Test/Stories.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
